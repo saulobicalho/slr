@@ -4,27 +4,26 @@ ACM-------------------------
 	busca retorna 51
 	dos quais
 		46 arquivos baixados
-		4  videos
-		1  workshop (s/pdf)
+		4  videos (eliminado)
+		1  workshop (s/pdf, eliminado)
 PeerJ-----------------------
 	https://peerj.com/search/?q=curation+AND+curate+AND+knowledge+AND+digital+AND+%28system+OR+systems%29+AND+%28%22Participatory+Culture%22+OR+strategy+OR+appropriation+OR+information+OR+collective+OR+collaborative+OR+shared+OR+%22knowledge+curation%22%29&t=&type=&subject=&topic=&uid=&sort=&manuscriptType=&source=&authors=&journal=cs&discipline=cs&type=
-	retorna 13
-	disponiveis online
+	os 13 arquivos nao foram baixados pq estao disponiveis online
+
 MDPI------------------------
 
 	https://www.mdpi.com/search?advanced=(@(abstract)curation@(abstract)curate)
-	retorna 1
-	(já temos)
+	1 de 1 arquivo baixado
 
 IJDC-----------------------
 	http://www.ijdc.net/search/search
-	os 5 arquivos foram baixados
+	5 de 5 arquivos baixados
 
 IEEE----------------------
 
 	https://ieeexplore.ieee.org/search/searchresult.jsp?action=search&newsearch=true&searchField=Search_All_Text&matchBoolean=true&queryText=((((((((((strategy)%20OR%20appropriation)%20OR%20information)%20OR%20participatory)%20OR%20collective)%20OR%20collaborative)%20OR%20shared)%20OR%20%22knowledge%20curation%22)%20AND%20knowledge%20digital%20system)%20AND%20%22Abstract%22:curation%20curate)
-	10 artigos baixados
-	1  livro (indisponivel)
+	10 de 11 arquivos baixados
+	1 arquivo nao baixado (era livro, estava indisponivel para baixar)
 
 Springer---------------------------
 
@@ -37,7 +36,7 @@ Science Direct---------------------
 	filtros (apenas review articles, research articles)
 	12 resultados
 	dos quais
-		6 abstract only 
+		6 abstract only (eliminados)
 		6 open acess(baixados)
 
 HCBIB--------------------------------
