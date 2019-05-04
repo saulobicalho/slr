@@ -42,4 +42,4 @@ Science Direct---------------------
 HCBIB--------------------------------
 	https://hcibib.org/bs.cgi
 	string: curation curate digital knowledge system
-	1 item (de  artigo da ACM, já presente)
+	1 de 1 item baixado
