@@ -27,9 +27,9 @@ IEEE----------------------
 
 Springer---------------------------
 
-	https://link.springer.com/search?facet-content-type=%22Article%22&query=curation+AND+curate+AND+knowledge+AND+digital+AND+system+AND+%28participatory%3Fculture+OR+strategy+OR+appropriation+OR+information+OR+collective+OR+collaborative+OR+shared+OR+knowledge%3Fcuration%29&showAll=true&facet-discipline=%22Computer+Science%22&date-facet-mode=between&facet-start-year=2014&previous-start-year=2003&facet-end-year=2019&previous-end-year=2019
+	https://link.springer.com/search/page/1?facet-discipline=%22Computer+Science%22&showAll=true&facet-content-type=%22Article%22&query=curation+AND+curate+AND+knowledge+AND+digital+AND+system+AND+%28participatory%3Fculture+OR+strategy+OR+appropriation+OR+information+OR+collective+OR+collaborative+OR+shared+OR+knowledge%3Fcuration%29
 	filtros: (discipline)computer science, (content type)articles only (retirou capitulos de livros, papeis de conferencias) (date: 2014-2019)
-	35 artigos (sem acesso em casa, tentar do dcc)
+	44 de 44 artigos baixados
 
 Science Direct---------------------
 	https://www.sciencedirect.com/search/advanced?qs=%22participatory%20culture%22%20OR%20strategy%20OR%20apropriation%20OR%20information%20OR%20collective%20OR%20collaborative%20OR%20shared%20OR%20%22knowledge%20curation%22&tak=curation%20curate%20digital%20system&articleTypes=REV%2CFLA
