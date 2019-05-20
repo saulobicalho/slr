@@ -4,7 +4,7 @@ ACM-------------------------
 	busca retorna 51
 	dos quais
 		46 arquivos baixados
-		4  videos (eliminado)
+		3  videos (eliminado)
 		1  workshop (s/pdf, eliminado)
 PeerJ-----------------------
 	https://peerj.com/search/?q=curation+AND+curate+AND+knowledge+AND+digital+AND+system+AND+%28%22Participatory+Culture%22+OR+strategy+OR+appropriation+OR+information+OR+collective+OR+collaborative+OR+shared+OR+%22knowledge+curation%22+OR+motivation+OR+feature+OR+interaction+OR+%22evaluation+method%22+OR+%22system+evaluation%22%29&t=&type=&subject=&topic=&uid=&sort=&manuscriptType=&source=&authors=&journal=cs&discipline=cs&type=
